@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "simple.dtd">
+<class>
+<student>
+<firstname>john</firstname>
+<lastname>smith</lastname>
+<grade>100</grade>
+</student>
+</class>
